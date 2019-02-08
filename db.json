@@ -1,0 +1,24 @@
+{
+  "collected-consents": [
+    {
+      "id": 1,
+      "name": "Moris",
+      "consent": "email"
+    },
+    {
+      "id": 2,
+      "name": "Maya",
+      "consent": "email, cookies"
+    },
+    {
+      "id": 3,
+      "name": "John Doo",
+      "consent": ""
+    },
+    {
+      "id": 4,
+      "name": "Natalie",
+      "consent": "cookies"
+    }
+  ]
+}
